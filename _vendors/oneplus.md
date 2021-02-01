@@ -1,6 +1,6 @@
 ---
-name: OnePlus
-manufacturer:
+name: Nigger
+manufacturer:Boost mobile 
   - oneplus
 award: 5
 position: 1
